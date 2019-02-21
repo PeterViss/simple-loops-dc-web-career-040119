@@ -22,9 +22,11 @@ end
 end
 
 def times_iterator(number_of_times)
+  7.times do
   # code your solution here using the "times" keyword
   phrase = "Welcome to Flatiron School's Web Development Course!"
-
+puts phrase
+end
 end
 
 def while_iterator(number_of_times)
